@@ -1,23 +1,16 @@
-.heading {
-    font-size: 23px;
+.h {
     width: 100%;
+    font-size: 23px;
     margin: 0;
-    box-shadow: 5px 5px 5px gray;
+    background-color: rgba(0, 0, 255, 0.527);
 }
-.note {
+.n {
     font-size: 15px;
 }
-.copy_right_footer {
+.crf {
     position: fixed;
     bottom: 0;
-    background-color: cornflowerblue;
-    color: yellow;
-    width: 100%;
-    line-height: 3;
     text-align: center;
-}
-canvas {
-    border: 5px solid black;
-    border-radius: 20px;
-    box-shadow: 5px 5px 5px gray;
+    width: 100%;
+    background-color: rgba(0, 0, 255, 0.527);
 }
